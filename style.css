@@ -14,3 +14,9 @@ main{
     padding: 10px;
     box-shadow: black;
 }
+
+img.lado{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
