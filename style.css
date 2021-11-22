@@ -20,3 +20,7 @@ img.lado{
     height: 100px;
     float: right;
 }
+
+.container{
+    padding: auto;
+}
